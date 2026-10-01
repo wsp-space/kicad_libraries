@@ -3,6 +3,12 @@
 ![WSP Logo (Darkmode)](assets/wsp_logos/logo_colour_dark.png#gh-dark-mode-only)
 ![WSP Logo (Lightmode)](assets/wsp_logos/logo_colour_light.png#gh-light-mode-only)
 
+<pictures>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wsp_logos/logo_colour_dark.png" width="40%">
+    <source media="(prefers-color-scheme: light)" srcset="assets/wsp_logos/logo_colour_light.png" width="40%">
+    <img src="assets/wsp_logos/logo_colour_dark.png" alt="WSP Logo" width="40%">
+</pictures>
+
 A shared parts drawer for **和歌山大学宇宙開発プロジェクト (WSP)** — the Wakayama University team that flies hybrid rockets and stratospheric balloons.
 
 The connectors, sensors, and power parts we reach for again and again live here as KiCad libraries, so a member can drop them onto a board instead of drawing them from scratch.
