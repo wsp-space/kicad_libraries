@@ -1,11 +1,10 @@
 # WSP KiCad Common Library
 
-
-<pictures align="center">
+<p align="center">
     <source media="(prefers-color-scheme: dark)" srcset="assets/wsp_logos/logo_colour_dark.png" width="40%">
     <source media="(prefers-color-scheme: light)" srcset="assets/wsp_logos/logo_colour_light.png" width="40%">
     <img src="assets/wsp_logos/logo_colour_dark.png" alt="WSP Logo" width="40%">
-</pictures>
+</p>
 
 A shared parts drawer for **和歌山大学宇宙開発プロジェクト (WSP)** — the Wakayama University team that flies hybrid rockets and stratospheric balloons.
 
