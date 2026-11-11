@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "WSP_Logo")(type "KiCad")(uri "${WSP_KICAD_LIB}/symbols/WSP_Logo.kicad_sym")(options "")(descr "WSP logo"))
+  (lib (name "WSP_REYAX")(type "KiCad")(uri "${WSP_KICAD_LIB}/symbols/WSP_REYAX.kicad_sym")(options "")(descr "REYAX modules (RYUW122 UWB)"))
+)

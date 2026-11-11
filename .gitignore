@@ -1,0 +1,15 @@
+# KiCad temporary / backup files
+*.bak
+*.bck
+*-bak
+*-backups/
+~*.lck
+*.lck
+_autosave-*
+\#auto_saved_files\#
+fp-info-cache
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

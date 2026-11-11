@@ -1,11 +1,11 @@
-(footprint "WSP Logo" (version 20221018) (generator "bitmap2component") (generator_version "10.0")
+(footprint "WSP_Logo" (version 20221018) (generator "bitmap2component") (generator_version "10.0")
   (layer "F.Cu")
   (attr board_only exclude_from_pos_files exclude_from_bom)
   (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     (uuid af5bfda9-d17a-4cc6-9920-adc63a121fbc)
   )
-  (fp_text value "WSP Logo" (at 0.75 0) (layer "F.SilkS") hide
+  (fp_text value "WSP_Logo" (at 0.75 0) (layer "F.SilkS") hide
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     (uuid 8f935a19-a4d3-4b83-8ca2-ca4c1b265aed)
   )

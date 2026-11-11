@@ -1,0 +1,11 @@
+# Keep line endings consistent across Windows / macOS / Linux
+* text=auto eol=lf
+
+*.kicad_sym   text eol=lf
+*.kicad_mod   text eol=lf
+*-lib-table   text eol=lf
+
+*.png   binary
+*.step  binary
+*.stp   binary
+*.wrl   binary
